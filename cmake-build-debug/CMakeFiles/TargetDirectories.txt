@@ -1,0 +1,3 @@
+C:/Users/LSC/CLionProjects/algorithms/pro1_1/cmake-build-debug/CMakeFiles/project1-kvstore.dir
+C:/Users/LSC/CLionProjects/algorithms/pro1_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LSC/CLionProjects/algorithms/pro1_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
